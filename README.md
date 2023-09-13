@@ -2,6 +2,7 @@
 ## Description:
 
 This is a simple URL shortener application built with Express and Mongoose. It allows users to create short URLs for long URLs. The short URLs are generated using the shortid library. The application also keeps track of the number of times each short URL has been clicked.
+
 ![image](https://github.com/Devai-coding/shornter/assets/113947156/b1fa2131-2864-4533-a401-9d01d0287108)
 
 
