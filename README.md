@@ -4,11 +4,11 @@
 This is a simple URL shortener application built with Express and Mongoose. It allows users to create short URLs for long URLs. The short URLs are generated using the shortid library. The application also keeps track of the number of times each short URL has been clicked.
 
 ## Installation
-*Clone the repository:
+* Clone the repository:
   git clone https://github.com/your-username/shortener.git
-*Install the dependencies:
+* Install the dependencies:
   npm install
-*Start the application:
+* Start the application:
   npm start
 The application will be running on port 3000.
 
