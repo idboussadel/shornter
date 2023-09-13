@@ -25,3 +25,7 @@ To create a short URL, send a POST request to the /url endpoint with the followi
 The response will be the short URL.
 
 To redirect to the long URL, send a GET request to the /:shortUrl endpoint.
+
+```sh
+git clone https://github.com/your_username_/Project-Name.git
+```
