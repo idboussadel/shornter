@@ -9,7 +9,7 @@ This is a simple URL shortener application built with Express and Mongoose and E
 ## Installation
 * Clone the repository:
  ```sh
-git clone https://github.com/your-username/shortener.git
+git clone https://github.com/Devai-coding/shortener.git
 ```
 * Install the dependencies:
  ```sh
