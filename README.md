@@ -8,11 +8,11 @@ This is a simple URL shortener application built with Express and Mongoose and E
 
 ## Installation
 * Clone the repository:
-  git clone https://github.com/your-username/shortener.git
+ ```sh git clone https://github.com/your-username/shortener.git ```
 * Install the dependencies:
-  npm install
+ ```sh npm install ```
 * Start the application:
-  npm start
+ ```sh npm start ```
 The application will be running on port 3000.
 
 Usage
