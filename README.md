@@ -23,10 +23,11 @@ The application will be running on port 3000.
 
 Usage
 To create a short URL, send a POST request to the /url endpoint with the following body:
-
+ ```sh
 {
   "fullUrl": "https://www.google.com"
 }
+```
 
 The response will be the short URL.
 
