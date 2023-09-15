@@ -1,4 +1,4 @@
-# shornter
+# Shornter
 ## Description:
 
 This is a simple URL shortener application built with Express and Mongoose and EJS. It allows users to create short URLs for long URLs. The short URLs are generated using the shortid library. The application also keeps track of the number of times each short URL has been clicked.
